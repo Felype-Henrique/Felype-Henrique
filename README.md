@@ -16,7 +16,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felypehenrique/)
 
-[![Currículo](https://camo.githubusercontent.com/e15a1b4583673c5…37175697474612f6d61737465722f726573756d652e706466)](https://github.com/Felype-Henrique/Felype-Henrique/raw/main/docs/Curr%C3%ADculo.pdf)
+[![Currículo](https://img.shields.io/badge/-Resume-999?style=for-the-badge&logo=DropBox&logoColor=white)](https://github.com/Felype-Henrique/Felype-Henrique/raw/main/docs/Curr%C3%ADculo.pdf)
 
 ![Felype Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Felype-Henrique&show_icons=true&theme=tokyonight)
 
