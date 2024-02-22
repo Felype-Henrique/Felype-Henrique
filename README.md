@@ -23,5 +23,5 @@ Sou um desenvolvedor Full Stack com paixão por criar interfaces incríveis e fu
 
 ## 📫 Contato:
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felypehenrique/)
-- [![Currículo](https://img.shields.io/badge/-Currículo-999?style=for-the-badge&logo=DropBox&logoColor=white)](https://github.com/Felype-Henrique/Felype-Henrique/raw/main/docs/Curr%C3%ADculo.pdf)
+- [![Currículo](https://img.shields.io/badge/-Currículo-999?style=for-the-badge&logo=DropBox&logoColor=white)](https://github.com/Felype-Henrique/Felype-Henrique/blob/main/docs/Curriculo.pdf)
 - [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felypehenrique25@gmail.com)
